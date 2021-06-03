@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The same hand again, against the present councel of state's bad friends, John Canne, and his maintainers, the connivers of those very licentious, scandalous books, called the Discoverer, Part the first, and second.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93826</idno><idno type="EEBO-CITATION">99865329</idno>
+  <idno type="VID">117568</idno>
+  <idno type="EEBO-PROQUEST">2240907264</idno>
+  
+            <idno type="STC">Wing S532</idno>
+            <idno type="STC">Thomason E565_27</idno>
+            <idno type="STC">ESTC R206152</idno>
+            <idno type="PROQUEST">99865329</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865329e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117568)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E565[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The same hand again, against the present councel of state's bad friends, John Canne, and his maintainers, the connivers of those very licentious, scandalous books, called the Discoverer, Part the first, and second.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, MDCXLIX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: John Canne's The discoverer, part 1 and 2.</note>
+                  <note>Annotation on Thomason copy: "July 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Canne, John, d. 1667? --  Discoverer.</term>
+               <term type="topical_term">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117568:1"/>
+            <p>
+               <hi>The same Hand again,</hi> Against the present Councel of STATE'S bad Friends, <hi>John Canna,</hi> and his maintainers, the Contrivers of those very Licentious, Scandalous Books, called the <hi>Discoverer,</hi> Part the First, and Second.</p>
+            <q>
+               <bibl>
+                  <hi>JER. V. 26, 27, 28.</hi>
+               </bibl>
+               <p>For among my People are found wicked men, they lay wait as he that setteth snares, they set a trap, they catch men.</p>
+               <p>As a Cage is full of Birds, so are their Houses full of deceit, there<g ref="char:EOLhyphen"/>fore they are become great, and waxen rich.</p>
+               <p>They are waxen fat, they shine, yea they overpass the deeds of the wicked, they judge not the cause. &amp;c.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeer, <hi>MDCXLIX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117568:2"/>
+            <p>REader, The Discoverer doth <hi>much desire that whosoever hath not seen the first part, enquire after it, &amp;c.</hi> p. <hi>2. in margin;</hi> and in the <hi>line,</hi> saith, <hi>We have already published somthing to undeceive the People, &amp;c. and at this time shall make a further Discovery.</hi> Now I having in the <hi>Discoverer uncovered,</hi> vindicated L. C. <hi>Lilburn,</hi> M. <hi>Walwyn,</hi> &amp;c. from the <hi>criminations</hi> of this <hi>Priest</hi> (and those (how great soever it maketh no matter to me) who did for covers, interpose this mans black coat betwixt themselves, and the Peoples ey<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s) do de<g ref="char:EOLhyphen"/>sire you also to read that <hi>Vindication</hi> and say, Whether these men are not as like as one egg is to another, to those faithless Spies, who went to search, and <hi>Discover</hi> Canaan. <hi>Num. XIII.</hi> and brought an evil report of the Land, which (as faithful <hi>Joshua</hi> and <hi>Caleb</hi> brought word) flowed with Milk and Honey, and was conquerable by their Bre<g ref="char:EOLhyphen"/>thren, might be made by their Couragious performances their own <hi>Possession,</hi> as <hi>the many good things proposed</hi> (by the Gentlemen so evilly spoken of) may be by our <hi>Parliament, &amp;c.</hi>
+            </p>
+            <p>Further, Is it not a saucy boldness of this <hi>Pedantick,</hi> this <hi>silius terrae, J. Canne</hi> (who was puft up, even to <hi>Personating the Coun<g ref="char:EOLhyphen"/>cel of State,</hi> in <hi>1<seg rend="sup">st</seg>
+               </hi> part) to undertake to do (what?) no less than to <hi>Answer</hi> when the <hi>Parliament</hi> (if any one) is cald upon; to undertake the <hi>Justification of their Censure,</hi> yea, to give the sense of the <hi>Com<g ref="char:EOLhyphen"/>mons of England assembled in Parliament</hi> (if we will believe him) touching such <hi>Particulars</hi> as their <hi>Wisdom</hi> thought fit to be silent of: Or, of which their <hi>Supreme Authority</hi> needed not to speak, <hi>viz.</hi> What was in the <hi>Book</hi> censured <hi>Destructive to the present Government; Wherein it tended to the raising of a New War, &amp;c?</hi>
+            </p>
+            <p>And I would have returned words of correction touching his <hi>slan<g ref="char:EOLhyphen"/>ders</hi> on each <hi>Particular:</hi> (For, its but to drop a little Inke on this mans rising dust, and its soon laid) but</p>
+            <p n="1">
+               <pb facs="tcp:117568:2"/>
+               <hi>1.</hi> There's ever and anon <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rences</hi> to the first part of the <hi>Disco<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rer</hi> for <hi>proof,</hi> vid. p. <hi>4, 18, 29, 49,</hi> &amp;c. and that's <hi>Disproved</hi> already in the <hi>Discoverer Uncovered.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> You will (no doubt) soon have the folly and baseness of the <hi>Disco<g ref="char:EOLhyphen"/>ve<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs</hi> here shown by Writings from the Gentlemen accused.</p>
+            <p n="3">
+               <hi>3.</hi> Most of the scandals are cleanly, purely wip'd off by clear matter in the <hi>Praeface</hi> to the <hi>Agreement of the People,</hi> and in the neat An<g ref="char:EOLhyphen"/>swers to (the Successor of <hi>M<seg rend="sup">•s</seg> Gangraena</hi>) the book entituled <hi>Wal<g ref="char:EOLhyphen"/>wyns Wyles.</hi>
+            </p>
+            <p n="4">
+               <hi>4. L. C. Lilburn</hi> hath in his <hi>Legal Fundamental Liberties of the People of England,</hi> p. <hi>74.</hi> promised (as the <hi>Discoverer</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lls me, who have not read it) <hi>to seal with his heart bloud every line of the book (declared against.) &amp;c.</hi>
+            </p>
+            <div type="part">
+               <p>I Shall therefore chiefly deal with matters relating to the <hi>Disco<g ref="char:EOLhyphen"/>verer Ʋncovered.</hi>
+               </p>
+               <p>And (1) with that p. 19. <hi>Thompson stab'd one M. Haiden with a dagger, without any cause or provocation.</hi> But (you men of <hi>State</hi>) was it not a <hi>Provocation</hi> when <hi>Haiden</hi> would (and he came with company) <hi>seize</hi> upon such <hi>Papers</hi> as <hi>Thompson</hi> had at the Press, which might (as the wickedness of the times then were) occasion sufferance more than enough to <hi>Thompson,</hi> to the <hi>Printer,</hi> and to some others? And was not the <hi>stab</hi> (being in his Arme, neer his Shoulder) in the Opinion of himself, (who made no more of it, but would practise his <hi>Rogueries</hi> (some whereof see p. 12. of <hi>Discover or Ʋncovered</hi>) from Saturday to Munday before he would have it drest) as well as in the judgement of many others, a wound not dangerous, if in any time look't to, of easie cure? And did he not live about a moneth after this, ere death did give his heart the mor<g ref="char:EOLhyphen"/>tal stroke, Whereby, he, who oftner than once was like (and that justly) to be hanged (but escaped with burning in the hand) did now dy in his bed? For shame mention his death no more, it hastned upon the wheels of his own neglect, and calls to mind too much his ill-lead life.</p>
+               <p n="2">2. He will (p. 41. <hi>in margent</hi>) say somthing to the Author of the <hi>Discoverer Ʋncovered,</hi> who writes for his name LAPIS FRUCTIFERA. Its this, <hi>Note, there is one who stiles <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imself LAPIS</hi> (he saw onely with a sinister eye, with a right he might
+<pb facs="tcp:117568:3"/> have seen <hi>FRƲCTIFERA, dextrorsum posita) a Stone, or ra<g ref="char:EOLhyphen"/>ther a Block,</hi> (a special Scholler, he translates properly. Speak <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out; <hi>Lapis,</hi> a BLOCK. How? — see you do so no more, you de<g ref="char:EOLhyphen"/>served a whipping for this. It was not so bad with you (though it was a fault great enough for one had read a Grammar) in p. 34. where <hi>irrefragabilis</hi> you turn <hi>un-gain-saying, Verbalia in bili<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, accepta passive,</hi> being forgot) the <hi>Simplician (bona verba)</hi> under<g ref="char:EOLhyphen"/>takes (and performs it to thy <hi>shame) to Discover</hi> (commend him, <hi>legit ut clericus,</hi> its <hi>Ʋncover) the Discoverer, but speaks never a word to the matter</hi> ('t were ill luck if not one word hit) <hi>nor under<g ref="char:EOLhyphen"/>stands it</hi> (how appears that?) <hi>For whereas the Levelling Faction</hi> (dunghil terms) <hi>hath aspersed</hi> (as the <hi>Discoverer</hi> oft told us, but ne<g ref="char:EOLhyphen"/>ver could prove) <hi>the Parliament, Councel of State, (and Councel of War,</hi> which we have nothing to do with) <hi>the Discoverer</hi> (wrong again. Spell it. <hi>Ʋ, N, ƲN-) denies the things laid to their charge</hi> (and he had good reason to do so, <hi>vid.</hi> the <hi>Discoverer Ʋncovered) Now</hi> (it should be <hi>And) insteed of proving them</hi> (what <hi>them?</hi> the things the Undiscoverer denies? No sure, you would not have him prove Aspersions. That were a rare Task.) <hi>which he should have done,</hi> (he) <hi>undertakes the justification of them (them,</hi> comely lines, which the <hi>Discoverer</hi> made blots) <hi>The Block</hi> (ho then, we shall never have done, if he'l alwaies be thus Cuckowing, as if he attend<g ref="char:EOLhyphen"/>ed to some Block-house, or did serve onely to hew wood (an em<g ref="char:EOLhyphen"/>ployment the beguiling Gibeonites were put to) since he lost his living by the Printing-Press) <hi>speaks a parcel of non-sense</hi> (Prithee, be not jealous, and blab, thou maist ke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p thy faculty to thy self) <hi>but for their accusation he meddles not withal</hi> (it may be an Errata of the Compositer, for <hi>with at all.</hi> But then the <hi>Discoverer</hi> speaks contrary to himself, Its said in the lines above, that I undertake the Justifica<g ref="char:EOLhyphen"/>tion of them) <hi>Although he had not bin as senseless as a stone</hi> (a brave piece of <hi>Non-sense.</hi> Sans controversie, he speaks it naturally, else he could never do it so kindly) <hi>he might have seen it was the main thing he had to do.</hi> Poor soul! how anger harh transported him, and he furles all? What a pitifully miserable bundle of loose confu<g ref="char:EOLhyphen"/>sed matter was there?—! And is he otherwise when he flings the next stone? let's see him, p. 44.</p>
+               <p>
+                  <hi>Lapis, its like, thinks us so contemptible and mean bred, or such senseless stones (as himself) that we cannot decline TREASON, yet</hi> (he hath so mingled his words, that <hi>Yes</hi> stands like a Granting what
+<pb facs="tcp:117568:3"/> was thought; not as Affirming the contrary) <hi>and could have found out sense too in his Book, of there had bin any. It will be the best wit the Block hath, if he have the wit to conceal his Name.</hi> How the wretch is troubled that he cannot see <hi>Sense</hi> in <hi>Lapis</hi> his book. So before, <hi>the Block spake non-sense,</hi> And once more, p. 80. <hi>Lapis writes non-sense.</hi> Never was man distracted about Non-sense, till thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Discover<g ref="char:EOLhyphen"/>er</hi> was. But, come thy waies hither, I am an English-man, tender-hearted, and prone to acts of mercy; that thou maist not longer vex thy self thus shrewdly, Ile shew you some sense in that Books words thou just now spakest, viz. That he who wrote the Epistle praefixt to the first part of the <hi>Discoverer,</hi> was, and is <hi>a contemptible, mean<g ref="char:EOLhyphen"/>bred, decayed Parson</hi> (though he did assume the <hi>Title</hi> and <hi>Trust</hi> of the COUNCEL OF STATE) being of <hi>contemptible</hi> birth (for so honorable a Place) of <hi>mean</hi> breeding, and <hi>wasted</hi> in Estate, <hi>Jack Canne</hi> by name (he cals L. C. <hi>Lilburn, Jack</hi> p. 60.) So that if one would express it <hi>cum Rebus</hi> (and elect a <hi>Devise</hi> for him) you know what smal vessels will do it, and they may without dishonor be pendant for his <hi>Signe.</hi> But the <hi>Counterfeiting</hi> THEIR Epistle, I dare freely say that men that have but one spark of Nobility in them, or that have the Grain of Gentlemen, will scorn to let it pass without condigne reward.</p>
+               <p>But to hearken how these Discoverers decline <hi>Treason— We can &amp;c.—</hi> sullen Schollers, they won't say their lesson: but turn M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>sters, and (forsooth) would have me <hi>to conceal my Name</hi> (yet p. 80. tells of my looking like <hi>No-body</hi> its for want of other discourse) A sniveling Advise, for which I should hardly have forborn kicking the Discoverer, if he had dictated it to my face; yet wish him furnished with so much Greek and Hebrew, as to find out what <hi>LAPIS FRƲCTIFERA</hi> might mean.</p>
+               <p>But, observed you th'Application of this <hi>Marginal</hi> Note of the <hi>Discoverers</hi> to the line-<hi>reading?</hi> How loose it is? If his Pulpit ex<g ref="char:EOLhyphen"/>ercises are stored with no closer applications, hee'l hardly ere earn his bread by preaching. And if he depended not more on some of the Councel of State, than <hi>u</hi> in the margent, on <hi>u</hi> in the page, I am afraid he might beg, or not live in <hi>England</hi> better than in <hi>Amsterdam.</hi>
+               </p>
+               <p n="3">3) Page 45. <hi>Hear what Lapis saith, This Sycophant hath invent<g ref="char:EOLhyphen"/>ed wicked thoughts, which never entred their guiltless</hi> (what's the matter with him? Doth he read <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hout his Spectacles? Its <hi>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ile<g ref="char:EOLhyphen"/>less) souls. Poor hearts</hi> (toyis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion) <hi>las quentas en la mano, el
+<pb facs="tcp:117568:4"/> Diablo on capillo.</hi> Yet with both <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s you may see the wickedly in<g ref="char:EOLhyphen"/>vented scurvie thoughts of these Discoverers, if you'l read the <hi>Dis<g ref="char:EOLhyphen"/>coverer Ʋncovered.</hi> Which thoughts their <hi>ungodlinesses</hi> would <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain b<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> upon those innocent souls which this Popish p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>overb no waies will stick to. Its applyed <hi>(apud Hispanes)</hi> to a special Sect of their Clergy: b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (as they say) <hi>Piensa el ladr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, que t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dos son de s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:EOLhyphen"/>dicion.</hi>
+               </p>
+               <p n="4">(4) Page 49. <hi>Lapis moves like himself in</hi> p. 6. <hi>He repeats some words of the Discoverer</hi> [viz. <hi>How they have bin busie to raise Sedi<g ref="char:EOLhyphen"/>tion and Mutiny amongst the Souldiers] and speaks never a wise word to it (to them</hi> he would say) <hi>But that the yong-man might not be discouraged, otherwise</hi> (here's some of that wherewith he stores his book, as if he made <hi>treasure</hi> of non-sense) <hi>we would ask him whether he were not enticed</hi> (an elegant word in this place) <hi>to step in between us and the Levellers, through reading the story how the Asse took upon him to judge between the Cuckow, and the Night<g ref="char:EOLhyphen"/>ingal. Now of all others the Asse might worse do it.</hi> What broad spining here is? Threds fit to be <hi>Dedicated</hi> to C. to make halters of. But first, Excellent <hi>Concealers,</hi> what did I <hi>repeat? How they &amp;c.</hi> hold there. I repeated those words of the <hi>Discoverer,</hi> viz. <hi>They</hi> (the four Tower-Prisoners) <hi>have bin busie to raise Sedition amongst the Souldiers,</hi> and shewed the invalidity of that cited to prove so much. The first quotation, being, <hi>not to be found,</hi> The se<g ref="char:EOLhyphen"/>cond <hi>no whit concerning them,</hi> And the third <hi>ridiculous,</hi> as there you may read at large, And find somwhat more than NEVER a <hi>wise word:</hi> at which <hi>expression,</hi> if I had as much wit as the <hi>Discoverer,</hi> I could carp (like him, at by-matters, p. 4, 7, 10, 11, 24, &amp;c. letting the <hi>main</hi> go free.) But these wise Cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atures, would fain take me in (with them) to appear th'other <hi>Ass.</hi> Or like me to <hi>One</hi> that took upon him <hi>to judge between the Cuckow and the Nightingal, i. e.</hi> as the <hi>Discoverers</hi> lay it down <hi>between them</hi> (the Cuckow) and the <hi>Levellers</hi> [the Nightingal] A <hi>Fable</hi> ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reme new to me; and their <hi>Moral</hi> is fit to <hi>scoff</hi> themselves with. And it could hardly be avoid<g ref="char:EOLhyphen"/>ed by them. For <hi>Prov.</hi> XXVI. 9. <hi>As a thorn goeth up into the hand of a Drunkard; so is a Parable in the mouth of Fools;</hi> that is, them<g ref="char:EOLhyphen"/>selves will be peirced met with by it.</p>
+               <p>Now, upon the sole provocation of (what's provocation enough to me) mine ingenuity, to co<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, (for, I would not wittingly have any line drop from my pen, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at should fall plumb to one of
+<pb facs="tcp:117568:4"/> Truth; and be ayproved so, even when the curious shall appone most accurately the Level of Trueness) since the former uncover<g ref="char:EOLhyphen"/>ing the <hi>Discoverer,</hi> I am informed, that, though <hi>Amsterdam, Printed by John Canne,</hi> 1643. is in the Titl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> page of a book quo<g ref="char:EOLhyphen"/>ted by the <hi>Discoverer,</hi> p. 9. of first Part, yet the Book was Printed in England, without his knowledge. I therefore, upon <hi>insufficient</hi> (though likely) <hi>Ground</hi> charged it on him.</p>
+               <p>Hitherto, of the <hi>Discoverer Ʋncovered,</hi> and to what said about it. Next, one word concerning their second part (and I have done for this time) its this; I think none will read farther in it (unless to confute it) after he hath read p. 12. where, with impudence suf<g ref="char:EOLhyphen"/>ficient for men, who would arrogate infallibility to their hooded fancies, irrefragibility to their easie argutationes, and authority to impose upon the judgement of the most judicious Reader: they thus superciliously affront him, <hi>The Reader shall find here in our Dis<g ref="char:EOLhyphen"/>coverer, so much cleerness of Truth, force of Reason, and fulness of proof, as he will easily see their lies, unless he purposely shut his eyes, and chuse rather to be deceived.</hi> He must therefore provide himself of <hi>credulity,</hi> and be sure to be <hi>obsequious,</hi> otherwise (there is no praevention) he's <hi>censured</hi> already. And to <hi>deal</hi> with them, is to have to do with men distempered, so extremely incensed, and ex<g ref="char:EOLhyphen"/>ceedingly transported, as to say, <hi>We dare avouch it, and shall make it good, that there is not in the book one thing true, as they have set it down, p.</hi> 33. though there are these Truths of holy Scripture (for the last words) that, <hi>There is a reward for the Righteous; and that, There is a God that judgeth the earth,</hi> set down meerly as the <hi>Confession</hi> which will be enforced <hi>from the World, when the People shall be comforted, and the Land enjoy her rest, after so many yeers of sor<g ref="char:EOLhyphen"/>row.</hi> Which hasten, ô God, the Creator! Amen.</p>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Note that in p. 13, or 15. of the <hi>Discoverer Ʋncovered,</hi> there's one line or two transpos'd.</p>
+            <pb facs="tcp:117568:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:117568:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
